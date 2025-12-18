@@ -2,8 +2,6 @@
 
 A front-end developer & web designer with a love for crafting interactive digital experiences.
 
-> **Note:** I am currently seeking internships for my upcoming term at BCIT. Open to collaboration!
-
 # **[View My Portfolio](https://danieltrinh.ca/)**
 You can view my personal projects and case studies on my site.
 
